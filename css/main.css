@@ -1,0 +1,84 @@
+h1, p {
+    font-family: Raleway;
+    margin-left: 3.32%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    width: 96.68%;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    width: 96.68%;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+body {
+    background-image: url("https://wallpapersite.com/images/wallpapers/cristiano-ronaldo-1920x1080-fifa-18-4k-7777.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:center;
+} 
+
+.box{
+  position:center;
+  height:100%;
+  width:100%;
+  font-family:Helvetica;
+  color:#fff;
+  background:rgba(0,0,0,0.2);
+  padding:100px 0px;
+}
+.box h1{
+  text-align:center;
+  margin:30px 0;
+  font-size:30px;
+  text-shadow: 4px 4px 8px #000000;
+}
+.box input{
+  display:block;
+  width:300px;
+  margin:20px auto;
+  padding:15px;
+  background:rgba(0,0,0,0.5);
+  color:#fff;
+  border:0;
+}
+.box input:focus,.box input:active,.box button:focus,.box button:active{
+  outline:none;
+}
+.box button{
+  background:#2ecc71;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font-size:20px;
+  width:330px;
+  margin:20px auto;
+  display:block;
+  cursor:pointer;
+}
+.box button:active{
+  background:#27ae60;
+}
+.box p{
+  font-size:14px;
+  text-align:center;
+    color: #ffffff;
+}
+.box p span{
+  cursor:pointer;
+}
+
+.form-gap {
+    padding-top: 70px;
+}
