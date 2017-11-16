@@ -52,6 +52,7 @@ body {
   background:rgba(0,0,0,0.5);
   color:#fff;
   border:0;
+  border-radius: 10px;
 }
 .box input:focus,.box input:active,.box button:focus,.box button:active{
   outline:none;
