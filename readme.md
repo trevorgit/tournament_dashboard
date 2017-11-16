@@ -10,3 +10,5 @@
 | API   | Not started   |
 | Database  | Not started   |
 | Auth  |   Not started   |
+| SAM  |   Not started   |
+| Codepipeline  |   Not started   |
