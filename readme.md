@@ -7,6 +7,7 @@
 | HTML  | In Progress   |
 | CSS   | In Progress   |
 | JS    | In Progress   |
+| jQ    | Not started   |
 | API   | Not started   |
 | Database  | Not started   |
 | Auth  |   Not started   |
