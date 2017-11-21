@@ -22,8 +22,9 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
-body {
+body, html {
     background-image: url("https://wallpapersite.com/images/wallpapers/cristiano-ronaldo-1920x1080-fifa-18-4k-7777.jpg");
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
     position:center;
